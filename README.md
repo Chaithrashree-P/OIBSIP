@@ -8,4 +8,5 @@ This repository contains 3 projects executed during my internship at Oasis Infob
 
 🍷 **Project 3:** [Wine Quality Prediction](https://github.com/Chaithrashree-P/OIBSIP/tree/main/Wine%20Quality%20Prediction) - Python
 
-📱 **Project 4:** Unveiling the Android App Market: Analyzing Google Play Store Data 
+📱 **Project 4**: Unveiling the Android App Market: Analyzing Google Play Store Data
+
