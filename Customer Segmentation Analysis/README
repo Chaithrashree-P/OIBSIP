@@ -1,4 +1,4 @@
-**Predicting House Prices with Linear Regression**.
+Predicting House Prices with Linear Regression.
 Objective
 Develop a robust predictive model for house prices using Linear Regression, leveraging a dataset with features such as area, number of bedrooms and bathrooms, and amenities like air conditioning and parking.
 
