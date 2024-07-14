@@ -1,20 +1,19 @@
 
-*Predicting House Prices with Linear Regression*
-*Objective*
+Predicting House Prices with Linear Regression
+Objective
 Develop a robust predictive model for house prices using Linear Regression, leveraging a dataset with features such as area, number of bedrooms and bathrooms, and amenities like air conditioning and parking.
 
 Dataset
 Dataset: Kaggle Housing Dataset
 
-**Tech Stack Used**
-
+Tech Stack Used:
 Pandas
 Numpy
 Matplotlib
 Seaborn
 SK Learn
-**Skills Showcased in this Project**
 
+Skills Showcased in this Project:
 Data Exploration
 Data Cleaning
 Exploratory Data Analysis
@@ -22,8 +21,8 @@ Data Visualization
 Feature Transformation (One hot Encoding, Ordinal Encoding)
 Modelling
 
-**Conclusion**
+Conclusion
 Created a model with an R2 Score of 0.63 on test data.
 
-*End*
+End
 Thank you for your interest and time. Feel free to give your valuable suggestions and connect with me on LinkedIn.
